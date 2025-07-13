@@ -19,7 +19,7 @@
 ## my workspace
 
 ## 🛠️ tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,github,linux)](https://skillicons.dev)<br><br>
 
 ### ⚙️ GitHub Analytics
 
@@ -49,4 +49,3 @@
     </td>
   </tr>
 </table>
-
