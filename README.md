@@ -2,7 +2,7 @@
 
 ## i'm debianghost nice to meet u!
 
-<img src="https://64.media.tumblr.com/92e72aba50aaf642921b1c2636540881/tumblr_mnb0sun4SX1s96b9jo1_500.gif" width="100" style="float: right; margin-left: 100px;" alt="Madoka magica 8 bits" />
+<img src="https://64.media.tumblr.com/92e72aba50aaf642921b1c2636540881/tumblr_mnb0sun4SX1s96b9jo1_500.gif" width="85" style="float: right; margin-left: 100px;" alt="Madoka magica 8 bits" />
 
 
 ![](https://komarev.com/ghpvc/?username=debianghost&color=006bed)
