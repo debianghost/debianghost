@@ -10,7 +10,7 @@
 ## Sobre mim
 
 - 🤔 I'm learning about networks and programming
-- 🎓 I study computer networks at university
+- 🎓 I study computer networks at my university and i'm improving my cybersecurity and studying python
   
 ## 🖥️ Learning
 
